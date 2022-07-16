@@ -14,5 +14,6 @@ Member:
  - Ly Duc Hao: Student1368177
  - Nguyen Hoai Nam: Student1371461
 
-Link product: 
+Link product:  https://tieuhailua.github.io/eProject2/
+
 Link document: 
