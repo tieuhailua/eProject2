@@ -16,4 +16,4 @@ Member:
 
 Link product:  https://tieuhailua.github.io/eProject2/
 
-Link document: 
+Link document: https://github.com/tieuhailua/docutment.git
